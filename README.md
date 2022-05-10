@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afx1337
 - 👀 I’m interested in neuroscience, signal processing and hiking.
-- 🌱 I’m currently learning predictive models.
+- 🌱 I’m currently learning predictive modeling.
 
 <!---
 afx1337/afx1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
